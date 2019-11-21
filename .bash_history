@@ -237,3 +237,83 @@ ls -a
 cd desktop
 git checkout readme.txt
 git pull readme.txt
+git status
+git remote master
+git remote
+git init
+git config https://github.com/chandu3546/firstgitrepository.git
+git init https://github.com/chandu3546/firstgitrepository.git
+git user.name Chandu3546
+git remote add origin https:/github.com/chandu3546/first
+gitrepository.git/.git/
+https:/github.com/chandu3546/first
+git remote add origin https:/github.com/chandu3546/first
+gitrepository.git/.git/clearclear
+clear
+git remote add MasterBranch https://github.com/chandu3546/firstgitrepository.git
+git pull
+git pull https://github.com/chandu3546/firstgitrepository.git
+git status
+pwd
+cd ..
+pwd
+ls -a
+cd desktop
+pwd
+ls -a
+cd ..
+ls -a
+cd ec2-user/
+ls -a
+vim readme.txt 
+git push
+git remote add MasterBranch https://github.com/chandu3546/firstgitrepository.git
+git add MasterBranch https://github.com/chandu3546/firstgitrepository.git
+git add https://github.com/chandu3546/firstgitrepository.git
+git commit
+git push
+git push MasterBranch
+git pull
+git pull https://github.com/chandu3546/firstgitrepository.git
+ls -a
+vim readme.txt 
+clear
+git --version
+pwd
+ls -a
+git init
+git add readme.txt 
+git commit -m "firstcommit"
+git status
+touch readme1.txt
+vim readme1.txt
+git status
+git add readme1.txt 
+git commit -m "Secondcommit"
+git status
+git config --global.user.name "Chandu3546"
+git config --global user.name "Chandu3546"
+git config --global user.gmail "gopuchandarrao6666@gmail.com"
+git branch
+git branch feature
+git branch
+git checkout feature
+ls -a
+vim readme1.txt 
+pwd
+ls -a
+rm .readme1.txt.swp 
+ls -a
+rm https\:/
+rmdir https\:/
+ls -a
+vim readme1.txt
+git add .
+git commit -m "feature commit"
+clear
+git checkout master
+git branch
+git merge feature
+git branch -d feature
+git push master
+git push https://github.com/chandu3546/firstgitrepository.git

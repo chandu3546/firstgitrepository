@@ -12,7 +12,9 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1574233494,,"wq!"
+|2,0,1574320427,,"wq!"
+:WQ!
+|2,0,1574232765,,"WQ!"
 :q!
 |2,0,1574231594,,"q!"
 :qa
@@ -34,27 +36,53 @@
 
 # File marks:
 '0  2  11  ~/readme1.txt
-|4,48,2,11,1574233494,"~/readme1.txt"
-'1  1  11  ~/readme1.txt
-|4,49,1,11,1574232120,"~/readme1.txt"
-'2  1  11  ~/readme1.txt
-|4,50,1,11,1574232120,"~/readme1.txt"
-'3  5  33  ~/readme.txt
-|4,51,5,33,1574231594,"~/readme.txt"
-'4  5  33  ~/readme.txt
-|4,52,5,33,1574231306,"~/readme.txt"
-'5  1  0  /home/desktop/file1
-|4,53,1,0,1574148780,"/home/desktop/file1"
-'6  1  65  /home/desktop/file1
-|4,54,1,65,1574148663,"/home/desktop/file1"
-'7  1  1  /etc/yum.repos.d/jenkins.repo
-|4,55,1,1,1573627526,"/etc/yum.repos.d/jenkins.repo"
+|4,48,2,11,1574320427,"~/readme1.txt"
+'1  1  0  ~/.bash_history
+|4,49,1,0,1574320230,"~/.bash_history"
+'2  2  12  ~/readme1.txt
+|4,50,2,12,1574240041,"~/readme1.txt"
+'3  2  11  ~/readme1.txt
+|4,51,2,11,1574233494,"~/readme1.txt"
+'4  2  11  ~/readme1.txt
+|4,52,2,11,1574233494,"~/readme1.txt"
+'5  1  11  ~/readme1.txt
+|4,53,1,11,1574232120,"~/readme1.txt"
+'6  1  11  ~/readme1.txt
+|4,54,1,11,1574232120,"~/readme1.txt"
+'7  1  11  ~/readme1.txt
+|4,55,1,11,1574232120,"~/readme1.txt"
+'8  1  11  ~/readme1.txt
+|4,56,1,11,1574232120,"~/readme1.txt"
+'9  1  11  ~/readme1.txt
+|4,57,1,11,1574232120,"~/readme1.txt"
 
 # Jumplist (newest first):
+-'  2  11  ~/readme1.txt
+|4,39,2,11,1574320427,"~/readme1.txt"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1574320230,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1574320230,"~/.bash_history"
+-'  2  12  ~/readme1.txt
+|4,39,2,12,1574240041,"~/readme1.txt"
+-'  2  12  ~/readme1.txt
+|4,39,2,12,1574240041,"~/readme1.txt"
+-'  2  11  ~/readme1.txt
+|4,39,2,11,1574233494,"~/readme1.txt"
 -'  2  11  ~/readme1.txt
 |4,39,2,11,1574233494,"~/readme1.txt"
 -'  1  11  ~/readme1.txt
 |4,39,1,11,1574233471,"~/readme1.txt"
+-'  1  11  ~/readme1.txt
+|4,39,1,11,1574233471,"~/readme1.txt"
+-'  1  11  ~/readme1.txt
+|4,39,1,11,1574233471,"~/readme1.txt"
+-'  1  11  ~/readme1.txt
+|4,39,1,11,1574232738,"~/readme1.txt"
+-'  1  11  ~/readme1.txt
+|4,39,1,11,1574232738,"~/readme1.txt"
+-'  1  11  ~/readme1.txt
+|4,39,1,11,1574232120,"~/readme1.txt"
 -'  1  11  ~/readme1.txt
 |4,39,1,11,1574232120,"~/readme1.txt"
 -'  5  33  ~/readme.txt
@@ -66,6 +94,86 @@
 -'  5  33  ~/readme.txt
 |4,39,5,33,1574231594,"~/readme.txt"
 -'  5  33  ~/readme.txt
+|4,39,5,33,1574231594,"~/readme.txt"
+-'  5  33  ~/readme.txt
+|4,39,5,33,1574231594,"~/readme.txt"
+-'  5  33  ~/readme.txt
+|4,39,5,33,1574231594,"~/readme.txt"
+-'  5  33  ~/readme.txt
+|4,39,5,33,1574231594,"~/readme.txt"
+-'  5  33  ~/readme.txt
+|4,39,5,33,1574231594,"~/readme.txt"
+-'  5  33  ~/readme.txt
+|4,39,5,33,1574231594,"~/readme.txt"
+-'  5  33  ~/readme.txt
+|4,39,5,33,1574231594,"~/readme.txt"
+-'  5  33  ~/readme.txt
+|4,39,5,33,1574231594,"~/readme.txt"
+-'  5  33  ~/readme.txt
+|4,39,5,33,1574231594,"~/readme.txt"
+-'  5  33  ~/readme.txt
+|4,39,5,33,1574231594,"~/readme.txt"
+-'  5  33  ~/readme.txt
+|4,39,5,33,1574231594,"~/readme.txt"
+-'  5  33  ~/readme.txt
+|4,39,5,33,1574231594,"~/readme.txt"
+-'  5  33  ~/readme.txt
+|4,39,5,33,1574231594,"~/readme.txt"
+-'  5  33  ~/readme.txt
+|4,39,5,33,1574231594,"~/readme.txt"
+-'  5  33  ~/readme.txt
+|4,39,5,33,1574231594,"~/readme.txt"
+-'  5  33  ~/readme.txt
+|4,39,5,33,1574231594,"~/readme.txt"
+-'  5  33  ~/readme.txt
+|4,39,5,33,1574231594,"~/readme.txt"
+-'  5  33  ~/readme.txt
+|4,39,5,33,1574231594,"~/readme.txt"
+-'  5  33  ~/readme.txt
+|4,39,5,33,1574231594,"~/readme.txt"
+-'  5  33  ~/readme.txt
+|4,39,5,33,1574231594,"~/readme.txt"
+-'  5  33  ~/readme.txt
+|4,39,5,33,1574231306,"~/readme.txt"
+-'  5  33  ~/readme.txt
+|4,39,5,33,1574231306,"~/readme.txt"
+-'  5  33  ~/readme.txt
+|4,39,5,33,1574231306,"~/readme.txt"
+-'  5  33  ~/readme.txt
+|4,39,5,33,1574231306,"~/readme.txt"
+-'  5  33  ~/readme.txt
+|4,39,5,33,1574231306,"~/readme.txt"
+-'  5  33  ~/readme.txt
+|4,39,5,33,1574231306,"~/readme.txt"
+-'  5  33  ~/readme.txt
+|4,39,5,33,1574231306,"~/readme.txt"
+-'  5  33  ~/readme.txt
+|4,39,5,33,1574231306,"~/readme.txt"
+-'  5  33  ~/readme.txt
+|4,39,5,33,1574231306,"~/readme.txt"
+-'  5  33  ~/readme.txt
+|4,39,5,33,1574231306,"~/readme.txt"
+-'  5  33  ~/readme.txt
+|4,39,5,33,1574231306,"~/readme.txt"
+-'  5  33  ~/readme.txt
+|4,39,5,33,1574231306,"~/readme.txt"
+-'  5  33  ~/readme.txt
+|4,39,5,33,1574231306,"~/readme.txt"
+-'  5  33  ~/readme.txt
+|4,39,5,33,1574231306,"~/readme.txt"
+-'  5  33  ~/readme.txt
+|4,39,5,33,1574231306,"~/readme.txt"
+-'  5  33  ~/readme.txt
+|4,39,5,33,1574231306,"~/readme.txt"
+-'  5  33  ~/readme.txt
+|4,39,5,33,1574231306,"~/readme.txt"
+-'  5  33  ~/readme.txt
+|4,39,5,33,1574231306,"~/readme.txt"
+-'  5  33  ~/readme.txt
+|4,39,5,33,1574231306,"~/readme.txt"
+-'  5  33  ~/readme.txt
+|4,39,5,33,1574231306,"~/readme.txt"
+-'  5  33  ~/readme.txt
 |4,39,5,33,1574231306,"~/readme.txt"
 -'  5  33  ~/readme.txt
 |4,39,5,33,1574231306,"~/readme.txt"
@@ -89,178 +197,80 @@
 |4,39,1,0,1574231214,"~/readme.txt"
 -'  1  0  ~/readme.txt
 |4,39,1,0,1574231214,"~/readme.txt"
--'  1  0  /home/desktop/file1
-|4,39,1,0,1574148780,"/home/desktop/file1"
--'  1  0  /home/desktop/file1
-|4,39,1,0,1574148780,"/home/desktop/file1"
--'  1  0  /home/desktop/file1
-|4,39,1,0,1574148780,"/home/desktop/file1"
--'  1  0  /home/desktop/file1
-|4,39,1,0,1574148780,"/home/desktop/file1"
--'  1  0  /home/desktop/file1
-|4,39,1,0,1574148780,"/home/desktop/file1"
--'  1  0  /home/desktop/file1
-|4,39,1,0,1574148780,"/home/desktop/file1"
--'  1  0  /home/desktop/file1
-|4,39,1,0,1574148780,"/home/desktop/file1"
--'  1  0  /home/desktop/file1
-|4,39,1,0,1574148780,"/home/desktop/file1"
--'  1  0  /home/desktop/file1
-|4,39,1,0,1574148780,"/home/desktop/file1"
--'  1  0  /home/desktop/file1
-|4,39,1,0,1574148780,"/home/desktop/file1"
--'  1  0  /home/desktop/file1
-|4,39,1,0,1574148780,"/home/desktop/file1"
--'  1  0  /home/desktop/file1
-|4,39,1,0,1574148780,"/home/desktop/file1"
--'  1  0  /home/desktop/file1
-|4,39,1,0,1574148780,"/home/desktop/file1"
--'  1  0  /home/desktop/file1
-|4,39,1,0,1574148780,"/home/desktop/file1"
--'  1  0  /home/desktop/file1
-|4,39,1,0,1574148780,"/home/desktop/file1"
--'  1  0  /home/desktop/file1
-|4,39,1,0,1574148780,"/home/desktop/file1"
--'  1  65  /home/desktop/file1
-|4,39,1,65,1574148663,"/home/desktop/file1"
--'  1  65  /home/desktop/file1
-|4,39,1,65,1574148663,"/home/desktop/file1"
--'  1  65  /home/desktop/file1
-|4,39,1,65,1574148663,"/home/desktop/file1"
--'  1  65  /home/desktop/file1
-|4,39,1,65,1574148663,"/home/desktop/file1"
--'  1  65  /home/desktop/file1
-|4,39,1,65,1574148663,"/home/desktop/file1"
--'  1  65  /home/desktop/file1
-|4,39,1,65,1574148663,"/home/desktop/file1"
--'  1  65  /home/desktop/file1
-|4,39,1,65,1574148663,"/home/desktop/file1"
--'  1  65  /home/desktop/file1
-|4,39,1,65,1574148663,"/home/desktop/file1"
--'  1  65  /home/desktop/file1
-|4,39,1,65,1574148663,"/home/desktop/file1"
--'  1  65  /home/desktop/file1
-|4,39,1,65,1574148663,"/home/desktop/file1"
--'  1  65  /home/desktop/file1
-|4,39,1,65,1574148663,"/home/desktop/file1"
--'  1  65  /home/desktop/file1
-|4,39,1,65,1574148663,"/home/desktop/file1"
--'  1  65  /home/desktop/file1
-|4,39,1,65,1574148663,"/home/desktop/file1"
--'  1  65  /home/desktop/file1
-|4,39,1,65,1574148663,"/home/desktop/file1"
--'  1  65  /home/desktop/file1
-|4,39,1,65,1574148663,"/home/desktop/file1"
--'  1  65  /home/desktop/file1
-|4,39,1,65,1574148663,"/home/desktop/file1"
--'  1  1  /etc/yum.repos.d/jenkins.repo
-|4,39,1,1,1573627526,"/etc/yum.repos.d/jenkins.repo"
--'  1  1  /etc/yum.repos.d/jenkins.repo
-|4,39,1,1,1573627526,"/etc/yum.repos.d/jenkins.repo"
--'  1  1  /etc/yum.repos.d/jenkins.repo
-|4,39,1,1,1573627526,"/etc/yum.repos.d/jenkins.repo"
--'  1  1  /etc/yum.repos.d/jenkins.repo
-|4,39,1,1,1573627526,"/etc/yum.repos.d/jenkins.repo"
--'  1  1  /etc/yum.repos.d/jenkins.repo
-|4,39,1,1,1573627526,"/etc/yum.repos.d/jenkins.repo"
--'  1  1  /etc/yum.repos.d/jenkins.repo
-|4,39,1,1,1573627526,"/etc/yum.repos.d/jenkins.repo"
--'  1  1  /etc/yum.repos.d/jenkins.repo
-|4,39,1,1,1573627526,"/etc/yum.repos.d/jenkins.repo"
--'  1  1  /etc/yum.repos.d/jenkins.repo
-|4,39,1,1,1573627526,"/etc/yum.repos.d/jenkins.repo"
--'  1  1  /etc/yum.repos.d/jenkins.repo
-|4,39,1,1,1573627526,"/etc/yum.repos.d/jenkins.repo"
--'  1  1  /etc/yum.repos.d/jenkins.repo
-|4,39,1,1,1573627526,"/etc/yum.repos.d/jenkins.repo"
--'  1  1  /etc/yum.repos.d/jenkins.repo
-|4,39,1,1,1573627526,"/etc/yum.repos.d/jenkins.repo"
--'  1  1  /etc/yum.repos.d/jenkins.repo
-|4,39,1,1,1573627526,"/etc/yum.repos.d/jenkins.repo"
--'  1  1  /etc/yum.repos.d/jenkins.repo
-|4,39,1,1,1573627526,"/etc/yum.repos.d/jenkins.repo"
--'  1  1  /etc/yum.repos.d/jenkins.repo
-|4,39,1,1,1573627526,"/etc/yum.repos.d/jenkins.repo"
--'  1  1  /etc/yum.repos.d/jenkins.repo
-|4,39,1,1,1573627526,"/etc/yum.repos.d/jenkins.repo"
--'  1  1  /etc/yum.repos.d/jenkins.repo
-|4,39,1,1,1573627526,"/etc/yum.repos.d/jenkins.repo"
--'  1  1  /etc/yum.repos.d/jenkins.repo
-|4,39,1,1,1573627526,"/etc/yum.repos.d/jenkins.repo"
--'  1  1  /etc/yum.repos.d/jenkins.repo
-|4,39,1,1,1573627526,"/etc/yum.repos.d/jenkins.repo"
--'  1  1  /etc/yum.repos.d/jenkins.repo
-|4,39,1,1,1573627526,"/etc/yum.repos.d/jenkins.repo"
--'  1  1  /etc/yum.repos.d/jenkins.repo
-|4,39,1,1,1573627526,"/etc/yum.repos.d/jenkins.repo"
--'  1  1  /etc/yum.repos.d/jenkins.repo
-|4,39,1,1,1573627526,"/etc/yum.repos.d/jenkins.repo"
--'  1  1  /etc/yum.repos.d/jenkins.repo
-|4,39,1,1,1573627526,"/etc/yum.repos.d/jenkins.repo"
--'  1  1  /etc/yum.repos.d/jenkins.repo
-|4,39,1,1,1573627526,"/etc/yum.repos.d/jenkins.repo"
--'  1  1  /etc/yum.repos.d/jenkins.repo
-|4,39,1,1,1573627526,"/etc/yum.repos.d/jenkins.repo"
--'  1  1  /etc/yum.repos.d/jenkins.repo
-|4,39,1,1,1573627526,"/etc/yum.repos.d/jenkins.repo"
--'  1  1  /etc/yum.repos.d/jenkins.repo
-|4,39,1,1,1573627526,"/etc/yum.repos.d/jenkins.repo"
--'  1  1  /etc/yum.repos.d/jenkins.repo
-|4,39,1,1,1573627526,"/etc/yum.repos.d/jenkins.repo"
--'  1  1  /etc/yum.repos.d/jenkins.repo
-|4,39,1,1,1573627526,"/etc/yum.repos.d/jenkins.repo"
--'  1  1  /etc/yum.repos.d/jenkins.repo
-|4,39,1,1,1573627526,"/etc/yum.repos.d/jenkins.repo"
--'  1  1  /etc/yum.repos.d/jenkins.repo
-|4,39,1,1,1573627526,"/etc/yum.repos.d/jenkins.repo"
--'  1  1  /etc/yum.repos.d/jenkins.repo
-|4,39,1,1,1573627526,"/etc/yum.repos.d/jenkins.repo"
--'  1  1  /etc/yum.repos.d/jenkins.repo
-|4,39,1,1,1573627526,"/etc/yum.repos.d/jenkins.repo"
--'  1  1  /etc/yum.repos.d/jenkins.repo
-|4,39,1,1,1573627526,"/etc/yum.repos.d/jenkins.repo"
--'  1  1  /etc/yum.repos.d/jenkins.repo
-|4,39,1,1,1573627526,"/etc/yum.repos.d/jenkins.repo"
--'  1  1  /etc/yum.repos.d/jenkins.repo
-|4,39,1,1,1573627526,"/etc/yum.repos.d/jenkins.repo"
--'  1  1  /etc/yum.repos.d/jenkins.repo
-|4,39,1,1,1573627526,"/etc/yum.repos.d/jenkins.repo"
--'  1  1  /etc/yum.repos.d/jenkins.repo
-|4,39,1,1,1573627526,"/etc/yum.repos.d/jenkins.repo"
--'  1  1  /etc/yum.repos.d/jenkins.repo
-|4,39,1,1,1573627526,"/etc/yum.repos.d/jenkins.repo"
--'  1  1  /etc/yum.repos.d/jenkins.repo
-|4,39,1,1,1573627526,"/etc/yum.repos.d/jenkins.repo"
--'  1  1  /etc/yum.repos.d/jenkins.repo
-|4,39,1,1,1573627526,"/etc/yum.repos.d/jenkins.repo"
--'  1  1  /etc/yum.repos.d/jenkins.repo
-|4,39,1,1,1573627526,"/etc/yum.repos.d/jenkins.repo"
--'  1  1  /etc/yum.repos.d/jenkins.repo
-|4,39,1,1,1573627526,"/etc/yum.repos.d/jenkins.repo"
--'  1  1  /etc/yum.repos.d/jenkins.repo
-|4,39,1,1,1573627526,"/etc/yum.repos.d/jenkins.repo"
--'  1  1  /etc/yum.repos.d/jenkins.repo
-|4,39,1,1,1573627526,"/etc/yum.repos.d/jenkins.repo"
--'  1  1  /etc/yum.repos.d/jenkins.repo
-|4,39,1,1,1573627526,"/etc/yum.repos.d/jenkins.repo"
--'  1  1  /etc/yum.repos.d/jenkins.repo
-|4,39,1,1,1573627526,"/etc/yum.repos.d/jenkins.repo"
--'  1  1  /etc/yum.repos.d/jenkins.repo
-|4,39,1,1,1573627526,"/etc/yum.repos.d/jenkins.repo"
--'  1  1  /etc/yum.repos.d/jenkins.repo
-|4,39,1,1,1573627526,"/etc/yum.repos.d/jenkins.repo"
--'  1  1  /etc/yum.repos.d/jenkins.repo
-|4,39,1,1,1573627526,"/etc/yum.repos.d/jenkins.repo"
+-'  1  0  ~/readme.txt
+|4,39,1,0,1574231214,"~/readme.txt"
+-'  1  0  ~/readme.txt
+|4,39,1,0,1574231214,"~/readme.txt"
+-'  1  0  ~/readme.txt
+|4,39,1,0,1574231214,"~/readme.txt"
+-'  1  0  ~/readme.txt
+|4,39,1,0,1574231214,"~/readme.txt"
+-'  1  0  ~/readme.txt
+|4,39,1,0,1574231214,"~/readme.txt"
+-'  1  0  ~/readme.txt
+|4,39,1,0,1574231214,"~/readme.txt"
+-'  1  0  ~/readme.txt
+|4,39,1,0,1574231214,"~/readme.txt"
+-'  1  0  ~/readme.txt
+|4,39,1,0,1574231214,"~/readme.txt"
+-'  1  0  ~/readme.txt
+|4,39,1,0,1574231214,"~/readme.txt"
+-'  1  0  ~/readme.txt
+|4,39,1,0,1574231214,"~/readme.txt"
+-'  1  0  ~/readme.txt
+|4,39,1,0,1574231214,"~/readme.txt"
+-'  1  0  ~/readme.txt
+|4,39,1,0,1574231214,"~/readme.txt"
+-'  1  0  ~/readme.txt
+|4,39,1,0,1574231214,"~/readme.txt"
+-'  1  0  ~/readme.txt
+|4,39,1,0,1574231214,"~/readme.txt"
+-'  1  0  ~/readme.txt
+|4,39,1,0,1574231214,"~/readme.txt"
+-'  1  0  ~/readme.txt
+|4,39,1,0,1574231214,"~/readme.txt"
+-'  1  0  ~/readme.txt
+|4,39,1,0,1574231214,"~/readme.txt"
+-'  1  0  ~/readme.txt
+|4,39,1,0,1574231214,"~/readme.txt"
+-'  1  0  ~/readme.txt
+|4,39,1,0,1574231214,"~/readme.txt"
+-'  1  0  ~/readme.txt
+|4,39,1,0,1574231214,"~/readme.txt"
+-'  1  0  ~/readme.txt
+|4,39,1,0,1574231214,"~/readme.txt"
+-'  1  0  ~/readme.txt
+|4,39,1,0,1574231214,"~/readme.txt"
+-'  1  0  ~/readme.txt
+|4,39,1,0,1574231214,"~/readme.txt"
+-'  1  0  ~/readme.txt
+|4,39,1,0,1574231214,"~/readme.txt"
+-'  1  0  ~/readme.txt
+|4,39,1,0,1574231214,"~/readme.txt"
+-'  1  0  ~/readme.txt
+|4,39,1,0,1574231214,"~/readme.txt"
+-'  1  0  ~/readme.txt
+|4,39,1,0,1574231214,"~/readme.txt"
+-'  1  0  ~/readme.txt
+|4,39,1,0,1574231214,"~/readme.txt"
+-'  1  0  ~/readme.txt
+|4,39,1,0,1574231214,"~/readme.txt"
+-'  1  0  ~/readme.txt
+|4,39,1,0,1574231214,"~/readme.txt"
 
 # History of marks within files (newest to oldest):
 
 > ~/readme1.txt
-	*	1574233489	0
+	*	1574320423	0
 	"	2	11
-	^	2	12
-	.	2	11
+	^	2	13
+	.	2	12
 	+	1	12
-	+	2	11
+	+	2	12
+
+> ~/.bash_history
+	*	1574320220	0
+	"	1	0
 
 > ~/readme.txt
 	*	1574231588	0
